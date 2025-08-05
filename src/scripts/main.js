@@ -18,6 +18,7 @@ const food = {
   },
 };
 
+// hi
 const tree = document.querySelector('#tree');
 
 function createTree(element, data) {
